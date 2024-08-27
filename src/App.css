@@ -1,0 +1,13 @@
+#reader {
+    width: 250px !important;
+}
+
+.ReactModal__Content {
+    left: 55% !important;
+}
+
+@media (min-width: 640px) {
+    .ReactModal__Content {
+        left: 50% !important;
+    }
+}
